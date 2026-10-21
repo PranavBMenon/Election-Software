@@ -230,7 +230,3 @@ Database tables: `app_passwords`, `candidates`, `voting_status`, `app_settings`.
 
 ---
 
-## Related versions
-
-- `server.py`: the same app using MySQL instead of SQLite
-- `testv2.py`: replaces GitHub sync with a LAN sync to an admin PC and removes the remote-control features (the dashboard's remote-control features depend on the GitHub version)
